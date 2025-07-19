@@ -8,8 +8,8 @@ def index():
     # Portfolio data
     portfolio_data = {
         'name': 'Abdullah Sayed',
-        'tagline': 'Data Engineer | Scalable Pipelines • API Integration • Data Insights',
-        'intro': "Hi, I'm a Data Engineer who turns raw data into real impact. With a passion for clean pipelines and meaningful insights, I build data systems that power smarter decisions—especially in finance and business environments.",
+        'tagline': 'Data Engineer | Scalable Pipelines | API Integration | Data Insights',
+        'intro': "Hi, I'm a Data Engineer who turns raw data into real impact. With a passion for clean pipelines and meaningful insights, I build data systems that power smarter decisions especially in finance and business environments.",
         'photo_url': 'https://media.licdn.com/dms/image/v2/D4D03AQEEDkN-8ZthvQ/profile-displayphoto-shrink_400_400/B4DZWlqyGuH4Ag-/0/1742241211458?e=1758153600&v=beta&t=KI5-CsA5LyQwEBiPhu1rAF6vBAVUvRpg2dFNsxM44E8',
         'about': {
             'bio': "I'm a Data Engineer with over a year of hands-on experience designing and implementing robust data solutions. I specialize in building scalable ETL pipelines, automating data workflows, and managing end-to-end data processes. My skill set includes working with relational and non-relational databases, integrating and managing APIs, and ensuring efficient data flow across systems. I'm well-versed in data collection, preprocessing, analysis, and visualization—primarily within financial and business domains. I'm passionate about transforming raw data into actionable insights that drive smarter decision-making.",
